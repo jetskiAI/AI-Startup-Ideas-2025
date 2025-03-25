@@ -1,6 +1,6 @@
 # 🚀 Startup Idea Vault - Powered by Jetski.ai
 
-[![Jetski.ai Logo](https://jetski.ai/logo.png)](https://jetski.ai)
+[![Jetski.ai](assets/logo.png)](https://jetski.ai)
 
 ### 🌟 **Ever had a brilliant startup idea but didn't know where to start?**
 
