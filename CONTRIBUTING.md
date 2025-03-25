@@ -30,6 +30,9 @@ What problem is this startup solving?
 
 ## Initial Thoughts
 Any initial thoughts on the potential execution, features, or technologies?
+
+## Contributor Info (optional)
+Lo: (plug yourself)
 ```
 
 # 🙌 You're all set!
