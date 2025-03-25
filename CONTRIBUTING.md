@@ -32,7 +32,7 @@ What problem is this startup solving?
 Any initial thoughts on the potential execution, features, or technologies?
 
 ## Contributor Info (optional)
-Lo: (plug yourself)
+X/LI/GH: (plug yourself)
 ```
 
 # 🙌 You're all set!
