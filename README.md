@@ -1,7 +1,5 @@
 # 🚀 Startup Idea Vault - Powered by Jetski.ai
 
-[![Jetski.ai](assets/logo.png)](https://jetski.ai)
-
 ### 🌟 **Ever had a brilliant startup idea but didn't know where to start?**
 
 You're in the right place. **Startup Idea Vault** is a crowdsourced repository where innovative minds share startup ideas. Every idea gets expanded into a detailed, AI-powered case study complete with market research, validation, growth hacking strategies, and actionable resources.
@@ -9,10 +7,10 @@ You're in the right place. **Startup Idea Vault** is a crowdsourced repository w
 #### 📌 **How it works:**
 
 1. **Submit Your Idea** - Share a brief description of your startup idea using our [Submission Template](./submission.md).
-2. **AI-Powered Expansion** - We at [Jetski.ai](https://jetski.ai) built pipelines that instantly creates a comprehensive case study, roadmap, and research insights.
+2. **AI-Powered Research** - We at [Jetski.ai](https://jetski.ai) built pipelines that instantly creates a comprehensive case study, roadmap, and research insights.
 3. **Grow & Build** - Access strategic resources, growth tactics, and validation frameworks to build successful ventures.
 
-👉 **[Join the Jetski.ai Waitlist](https://jetski.ai)** to supercharge your ideas!
+👉 **[Join the Jetski.ai Waitlist](https://jetski.ai)** to supercharge your building!
 
 ---
 
@@ -35,7 +33,9 @@ You're in the right place. **Startup Idea Vault** is a crowdsourced repository w
 
 ✅ **[Submit Your Startup Idea](./CONTRIBUTING.md)**
 
-🌐 **[Visit Jetski.ai](https://jetski.ai)** – Revolutionizing startup research.
+🌐 **[Visit Jetski.ai](https://jetski.ai)** – Revolutionizing how we build software.
+
+[![Jetski.ai](assets/logo.png)](https://jetski.ai)
 
 ---
 
