@@ -6,7 +6,7 @@ You're in the right place. **Startup Idea Vault** is a crowdsourced repository w
 
 #### 📌 **How it works:**
 
-1. **Submit Your Idea** - Share a brief description of your startup idea using our [Submission Template](./submission.md).
+1. **Submit Your Idea** - Share a brief description of your startup idea using our [Submission Template](CONTRIBUTING.md).
 2. **AI-Powered Research** - We at [Jetski.ai](https://jetski.ai) built pipelines that instantly creates a comprehensive case study, roadmap, and research insights.
 3. **Grow & Build** - Access strategic resources, growth tactics, and validation frameworks to build successful ventures.
 
@@ -43,4 +43,4 @@ You're in the right place. **Startup Idea Vault** is a crowdsourced repository w
 
 Love this initiative? ⭐️ the repository, share it with your network, and let's build groundbreaking startups together!
 
-🔗 [Contributing Guidelines](./CONTRIBUTING.md) | 🔗 [Submission Template](./submission.md)
+🔗 [Contributing Guidelines](./CONTRIBUTING.md)
