@@ -1,0 +1,35 @@
+name: 🧠 Process Submissions
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # every 6 hours
+  workflow_dispatch:      
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  
+
+    steps:
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Install dependencies
+        run: pip install requests
+
+      - name: 🚀 Run processor script
+        run: python scripts/process_submissions.py
+
+      - name: 💾 Commit updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add case-studies/*.md archive/*.md
+          git commit -m "📚 Processed new submission [skip ci]" || echo "Nothing to commit"
+          git push
