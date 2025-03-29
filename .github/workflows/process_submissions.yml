@@ -24,7 +24,7 @@ jobs:
         run: pip install requests
 
       - name: 🚀 Run processor script
-        run: python scripts/process_submissions.py
+        run: python .github/scripts/process_submissions.py
 
       - name: 💾 Commit updates
         run: |
